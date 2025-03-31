@@ -1,1 +1,2 @@
-# Hochschild-cohomology-extensions
+# Hochischild-cohomology
+we focus on the Hochschild cohomology of the Koszul dual of K_𝑄[𝑥1, 𝑥2, 𝑥3, 𝑥4] where 𝑥_𝑖𝑥_𝑗 = −𝑞_{𝑖,𝑗} 𝑥_𝑗 𝑥_𝑖. Our primary goal is to determine conditions on the parameters 𝑞𝑖 𝑗 that lead to an increase in Hochschild cohomology. By identifying these specific conditions, we aim to construct families of algebras that intersect with the K_𝑄[𝑥_𝑖] component of the moduli space. An increase in Hochschild cohomology signals deformations of an algebra, which in turn can lead to identifying new components in the moduli space.
